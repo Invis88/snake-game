@@ -1,0 +1,23 @@
+body {
+    background-color: #202020;
+    text-align: center;
+}
+
+canvas {
+    margin-top: 10vw;
+    border: 10px solid #686180;
+}
+
+h1 {
+    color: rgb(184, 28, 28)    ;
+    font-size: 4em;
+    font-family: "Avenir Next", Verdana;
+    font-weight: bold;
+    letter-spacing: -10px;
+}
+
+h1 strong {
+    font-size: 1.35em; 
+    display: inline-block;
+    margin: 0 0.25em;
+}
